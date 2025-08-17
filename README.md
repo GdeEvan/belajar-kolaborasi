@@ -1,5 +1,4 @@
 # belajar-kolaborasi
 
+test squash1
 
-
-test commit 3

@@ -1,4 +1,5 @@
 # belajar-kolaborasi
 
-test squash1
-test squash2
+
+
+test squash3
